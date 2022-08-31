@@ -7,6 +7,8 @@ Users are able to create an account, share their thoughts and ideas, get the lat
 
 [Link](https://reactivate-team.github.io/Reactivate-Message-Board-Client/) to deployed application
 
+[Link](https://murmuring-brook-35134.herokuapp.com/) to API remote server
+
 [Link](https://github.com/Reactivate-Team/Reactivate-Message-Board-API) to API repository
 
 
