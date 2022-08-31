@@ -9,7 +9,6 @@ Users are able to create an account, share their thoughts and ideas, get the lat
 
 [Link](https://github.com/Reactivate-Team/Reactivate-Message-Board-API) to API repository
 
-[Link](https://murmuring-brook-35134.herokuapp.com/) to API remote server
 
 ## User Stories
 * As an unregistered user, I would like to sign up with email and password.
